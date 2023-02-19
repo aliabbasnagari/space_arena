@@ -16,8 +16,9 @@ To run the game, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the `src` directory.
-3. Compile the code using a C++ compiler.
-4. Run the executable file.
+3. Include the required SFML libraries and DLL's.
+4. Compile the code using a C++ compiler.
+5. Run the executable file.
 
 ## Controls
 
